@@ -63,8 +63,7 @@ JOIN dept_emp de
 ON e.emp_no = de.emp_no
 JOIN departments d
 ON de.dept_no = d.dept_no
-WHERE d.dept_name = 'Sales'
-OR d.dept_name = 'Development'
+WHERE d.dept_name IN ('Sales', 'Development')
 ORDER by e.emp_no
 
 -- 8. List the frequency counts, in descending order, of all

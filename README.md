@@ -1,4 +1,4 @@
-# SQL Challenge: Data Modeling, Engineering, and Analysis
+# Data Modeling, Engineering, and Analysis
 
 ## Project Summary
 

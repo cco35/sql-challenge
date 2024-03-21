@@ -29,6 +29,14 @@ For data analysis, I executed various SQL queries to extract insights from the d
 
 The project was evaluated based on adherence to requirements outlined in the assignment, including proper data modeling, engineering, and accurate data analysis.
 
+## Repository Structure
+
+- sql-challenge: Root directory containing project files.
+  - Data: Directory for project-specific files.
+    - ERD Diagram.png: Entity Relationship Diagram.
+    - table-schema.sql: SQL script containing table schemas.
+    - queries.sql: SQL script containing data analysis queries.
+
 ## Tools Used
 
 - pgadmin4 for database management and querying in PostgreSQL.
@@ -37,14 +45,6 @@ The project was evaluated based on adherence to requirements outlined in the ass
 ## Scalability and Future Improvements
 
 This project lays the foundation for future data exploration and analysis within Pewlett Hackard's historical employee database. Further enhancements could include automation of data import processes and development of interactive dashboards for deeper insights.
-
-## Repository Structure
-
-- sql-challenge: Root directory containing project files.
-  - Data: Directory for project-specific files.
-    - ERD Diagram.png: Entity Relationship Diagram.
-    - table-schema.sql: SQL script containing table schemas.
-    - queries.sql: SQL script containing data analysis queries.
 
 ## Conclusion
 

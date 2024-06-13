@@ -1,4 +1,4 @@
-# Data Modeling, Engineering, and Analysis
+# Employee Database Analysis: Data Modeling, Engineering, and Insights
 
 ## Project Summary
 
